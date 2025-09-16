@@ -16,7 +16,7 @@ tips = '''Follow the steps
 * Enter your details in the side bar,
 * Enter your gender ,age,height(cms), weight(kgs).
 * Select the number on the fitness scale from (0-5). 5-Fittest and 0-No fitness at all.
-*After filling the details write your promy here and customised response.'''
+* After filling the details write your promy here and customized response.'''
 st.write(tips)
 
 
